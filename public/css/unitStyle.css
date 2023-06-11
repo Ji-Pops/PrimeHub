@@ -1,0 +1,21 @@
+.card {
+    margin-bottom: 20px;
+}
+
+.table-responsive {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.tr{
+    padding: 2px;
+}
+
+.card-body form {
+    margin-top: 20px;
+}
+
+.pagination .page-link {
+    font-size: 14px; /* Adjust the font size as needed */
+    padding: 5px 10px; /* Adjust the padding as needed */
+}

@@ -1,0 +1,38 @@
+.card.custom {
+width: 30rem; /* adjust the value as needed */
+height: 26rem; /* adjust the value as needed */
+}
+
+.custom .picture-holder {
+height: 200px;
+width: 200px;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+border: 2px solid black;
+box-shadow: 5px 5px 10px #888888;
+}
+
+.view-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
